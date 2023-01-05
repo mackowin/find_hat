@@ -1,4 +1,4 @@
-# :tophat: Personal Budget #
+# :tophat: Find Hat #
 CodeCademy Project: build an interactive terminal game to find a missing hat with JavaScript
 
 ## Table of Contents ##
