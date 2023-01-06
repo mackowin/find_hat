@@ -1,5 +1,5 @@
 # :tophat: Find Hat #
-CodeCademy Project: build an interactive terminal game to find a missing hat with JavaScript
+CodeCademy Project: Build an interactive terminal game to find a missing hat with JavaScript
 
 ## Table of Contents ##
 * [General Info](#General-Info)
